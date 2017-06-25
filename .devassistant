@@ -1,0 +1,12 @@
+dependencies:
+- rpm:
+  - perl
+- rpm:
+  - perl
+devassistant_version: 0.11.2
+original_kwargs:
+  github: GregDuhamel
+  name: /home/gduhamel/Project/Perl/Generic
+project_type:
+- perl
+- class
